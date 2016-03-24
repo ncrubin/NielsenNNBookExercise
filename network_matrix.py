@@ -2,10 +2,6 @@
 modify the mini_batch algorithm to calculate the nabla for all the vectors in
 the mini_batch simultaneously
 
-pseudo-code for this:
-
-feedforward():
-    w[mat] dot a[mat] +
 '''
 
 
